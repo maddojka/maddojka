@@ -4,6 +4,8 @@
 Languages and Tools:
 
 ![image](https://github.com/maddojka/maddojka/assets/117828176/8eaf6f35-2279-42c8-8d75-0e23ca418c43)
+![image](https://github.com/maddojka/maddojka/assets/117828176/09d4b65e-bc69-4be2-ac03-86ba0c10edd5)
+
 
 <!--
 **maddojka/maddojka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
