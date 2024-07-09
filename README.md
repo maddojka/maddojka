@@ -2,6 +2,7 @@
  🔭  I'm currently looking for a job as a java developer. 
 
 Languages and Tools:
+
 ![image](https://github.com/maddojka/maddojka/assets/117828176/8eaf6f35-2279-42c8-8d75-0e23ca418c43)
 
 <!--
