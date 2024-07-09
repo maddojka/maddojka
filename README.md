@@ -18,7 +18,11 @@ Languages and Tools:
  title = "psgrs" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"
  title = "maven" width="80" height="80"/>&nbsp;
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+ title = "css" width="80" height="80"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+ title = "html" width="80" height="80"/>&nbsp;
+ 
 Statistics:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddojka&theme=buefy)
