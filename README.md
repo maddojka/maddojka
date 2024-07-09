@@ -11,6 +11,8 @@ I'm a java developer who is passionated about coding.  Besides, I have strong ba
 Languages and Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
  title = "jv" width="80" height="80"/>&nbsp;
+ <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+ title = "spring" width="80" height="80"/>&nbsp;
 ![image](https://github.com/maddojka/maddojka/assets/117828176/09d4b65e-bc69-4be2-ac03-86ba0c10edd5)
 ![image](https://github.com/maddojka/maddojka/assets/117828176/a8280e97-5161-4533-b32e-7093582120df)
 ![image](https://github.com/maddojka/maddojka/assets/117828176/b0084fe2-e7aa-4951-96bf-b199d4af6faf)
