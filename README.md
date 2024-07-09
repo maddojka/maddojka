@@ -1,4 +1,8 @@
-## Hi there 👋  I'm Yuriy.
+
+<div id="header" align="center">
+ <h1>## Hi there 👋  I'm Yuriy.</h1>
+ <h3>Java developer from Saint-Petersburg</h3>
+</div>
  🔭  I'm currently looking for a job as a java developer. 
 
 About me:
