@@ -6,6 +6,7 @@ Languages and Tools:
 ![image](https://github.com/maddojka/maddojka/assets/117828176/8eaf6f35-2279-42c8-8d75-0e23ca418c43)
 ![image](https://github.com/maddojka/maddojka/assets/117828176/09d4b65e-bc69-4be2-ac03-86ba0c10edd5)
 ![image](https://github.com/maddojka/maddojka/assets/117828176/a8280e97-5161-4533-b32e-7093582120df)
+![image](https://github.com/maddojka/maddojka/assets/117828176/b0084fe2-e7aa-4951-96bf-b199d4af6faf)
 
 
 <!--
