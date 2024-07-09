@@ -2,7 +2,8 @@
  🔭  I'm currently looking for a job as a java developer. 
 
 Languages and Tools:
-https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg
+![image](https://github.com/maddojka/maddojka/assets/117828176/8eaf6f35-2279-42c8-8d75-0e23ca418c43)
+
 <!--
 **maddojka/maddojka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
