@@ -26,7 +26,11 @@ Languages and Tools:
  title = "postman" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"           
  title = "kafka" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"           
+ title = "rabbitmq" width="80" height="80"/>&nbsp;
  
+            
+          
 Statistics:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddojka&theme=buefy)
