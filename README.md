@@ -24,7 +24,7 @@ Languages and Tools:
  title = "html" width="80" height="80"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
  title = "postman" width="80" height="80"/>&nbsp;
-  <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"           
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"           
  title = "kafka" width="80" height="80"/>&nbsp;
  
 Statistics:
