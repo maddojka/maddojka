@@ -8,9 +8,9 @@
 About me:
 I'm a java developer who is passionated about coding.  Besides, I have strong backgroung in automation field as a PLC programmer. My motto: I want to be challenged. During my free time I'm fond of learning English, playing football and training at the gym. On top of all that, I'm really open-minded person and I always try to do something new in my life.
 
-Languages and Tools:
+Languages: English level B2
 </br>
-English level B2
+Tools:
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
  title = "jv" width="80" height="80"/>&nbsp;
