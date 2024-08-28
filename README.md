@@ -6,7 +6,7 @@
  🔭  I'm currently looking for a job as a java developer. 
 
 About me:
-I'm a java developer who is passionated about coding.  Besides, I have strong backgroung in automation field as a PLC programmer. My motto: I want to be challenged. During my free time I'm fond of learning English, playing football and training at the gym. On top of all that, I'm really open-minded person and I always try to do something new in my life.
+I am a java developer who is passionate about coding. Besides, I have a strong background in the automation field as a PLC programmer. My motto: I want to be challenged. During my free time I'm fond of learning English, playing football and training at the gym. On top of all that, I'm really open-minded person and I always try to do something new in my life.
 
 Languages and Tools: 
 </br>
